@@ -15,7 +15,7 @@ p{
 p:hover{
     color: blueviolet;
     font-size: 47px;
-    
+
 .navbar{
     width:100vw;
     background-color:rgb(49, 49, 49);
@@ -28,4 +28,8 @@ p:hover{
     display:inline-block;
     width: 85%;
     text-align: center;
+}
+
+.gitp{
+    color: blueviolet;
 }
