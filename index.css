@@ -6,3 +6,11 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
+
+.navbar{
+    width:100vw;
+    background-color:rgb(49, 49, 49);
+    text-align: center;
+    position: fixed;
+    top:0;
+}
