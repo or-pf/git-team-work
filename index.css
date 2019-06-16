@@ -29,3 +29,7 @@ p:hover{
     width: 85%;
     text-align: center;
 }
+.navbox a{
+    display:inline-block;
+    margin-left: 3%; margin-right:3%;
+}
