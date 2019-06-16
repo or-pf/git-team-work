@@ -29,7 +29,13 @@ p:hover{
     width: 85%;
     text-align: center;
 }
+<<<<<<< HEAD
 
 .gitp{
     color: blueviolet;
+=======
+.navbox a{
+    display:inline-block;
+    margin-left: 3%; margin-right:3%;
+>>>>>>> 7f0d14c27fce08026cc8ba6ea8ccd335c996d26a
 }
