@@ -14,3 +14,9 @@
     position: fixed;
     top:0;
 }
+
+.navbar .navbox{
+    display:inline-block;
+    width: 85%;
+    text-align: center;
+}
